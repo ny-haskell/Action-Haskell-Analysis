@@ -16,6 +16,6 @@ Please come to each session prepared, with working version of GHC 7.6+ installed
 | 5/2/14        | Visualizing data, plug data into JS charts, more JSON data stuff. | 11 | |
 | 5/16/14       | DEMO DAY! We're going to showcase our projects
 
-** Involvement **
+**Involvement**
 
 We welcome experienced Haskellers to help TA study groups. Please contact [@evx001](https://github.com/evx001) or [@katychuang](https://github.com/katychuang) to coordinate. 
