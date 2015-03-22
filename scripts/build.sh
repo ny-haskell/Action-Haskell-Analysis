@@ -1,6 +1,9 @@
 #!/bin/zsh
 
 for i in $(pwd)/*
+
+for j in $i/*
 do
-  [[ -d $i ]] && (echo "\033[33;32m$i\033[0m"; cd $i; make; cd ..)
+  [[ -d $j ]] && (echo "\033[33;32m$j\033[0m"; cd $j; make; cd ..)
+  cd ..
 done
