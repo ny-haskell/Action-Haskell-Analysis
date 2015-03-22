@@ -18,9 +18,9 @@ Please come to each session prepared, with working version of GHC 7.6+ installed
 
 #How to use
 
-1. Grab a copy of the author's code examples [https://github.com/BinRoot/Haskell-Data-Analysis-Cookbook](https://github.com/BinRoot/Haskell-Data-Analysis-Cookbook)
+1. Clone author's code examples [https://github.com/BinRoot/Haskell-Data-Analysis-Cookbook](https://github.com/BinRoot/Haskell-Data-Analysis-Cookbook)
 2. Copy the scripts into the root of Haskell-Data-Analysis-Cookbook
-3. *If you're on GHC 7.8* run the ghc78.sh script and then './build.sh'. If you're on ghc7.6 proceed directly to running the build script.
+3. *If you're on GHC 7.8* run the ghc78.sh script and then `./build.sh`. If you're on ghc7.6 proceed directly to running the build script.
 4. Now you can run the executables from each code directory. The source code is in Main.hs of each directory, as the author states in his README files.
 
 
