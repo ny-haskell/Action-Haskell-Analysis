@@ -12,6 +12,7 @@ Please come to each session prepared, with working version of GHC 7.6+ installed
 | ------------- |:--------------------------------| :-----| :----:|
 | 3/21/14       | Setting up your environment. Monad Tutorial by Brian Hurt|  | [RSVP](http://www.meetup.com/NY-Haskell/events/220997346/)|
 | 4/4/14        | Read & Write JSON, Working with Haskell data structures | 1, 2, 12  | [RSVP](http://www.meetup.com/NY-Haskell/events/221313065/) |
+| MWF Mornings | Breakfast table coders | | |
 | 4/18/14       | Number & String manipulations | 3, 7, 8  | |
 | 5/2/14        | Visualizing data, plug data into JS charts, more JSON data stuff. | 11 | |
 | 5/16/14       | DEMO DAY! We're going to showcase our projects
